@@ -1,0 +1,167 @@
+.top-container{
+    background-color: pink;
+    padding-top: 20px;
+    padding-bottom: 0px;
+
+}
+.img{
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+div{
+    display: flex;
+}
+.card-title{
+    background-color: pink;
+}
+.title{
+    background-color: pink;
+    font-size-adjust: center;
+    font-style: italic;
+    font-family: "Sacramento", cursive;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto
+}
+.card-entry{
+    background-color: pink;
+}
+.program{
+    font-size: medium;
+    font-style: italic;
+    color: white;
+    margin: auto auto auto auto;
+}
+.birds{
+    background-color: pink;
+    margin-left: 80%;
+}
+.start{
+    background-color: pink;
+}
+.face{
+    border-radius: 50%;
+    margin: 50px auto auto auto;
+}
+.hola{
+    color: pink;
+    font-display: bold;
+    font-size: 40px;
+    font-family: Lucida Handwriting;
+    margin: 30px auto auto auto;
+    font-weight: bold;
+}
+.intro{
+    width: 30%;
+    margin: 40px auto auto auto  ;
+}
+    .boom{
+        border: dotted green 6px;
+        border-bottom: none;
+        width: 4%;
+        margin: 100px auto;
+    }
+
+.skills{
+    color: pink;
+    font-display: bold;
+    font-size: 40px;
+    font-family: Lucida Handwriting;
+    margin: 30px auto auto auto;
+    font-weight: bold;
+}
+.parent > div {
+    border: 1px solid #ccc; /* Add borders for clarity */
+    padding: 20px;
+}
+.typing {
+    display: grid;
+    grid-template-rows: auto auto; /* Two rows to stack h3 and p */
+    text-align: center; /* Center align content */
+}
+.texting {
+    display: grid;
+    grid-template-rows: auto auto; /* Two rows to stack h3 and p */
+    text-align: center; /* Center align content */
+}
+.parent{
+    
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1,1fr);
+    width: 50%;
+    margin: 100px auto 0 auto ;
+    text-align: left;
+    row-gap: 2rem;
+}
+.design{
+    font-family: Times, Times New Roman, serif;
+}
+h6{
+    font-style: italic;
+}
+.boom{
+    border: dotted green 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto ;
+}
+.touch{
+    font-family: Lucida Handwriting;;
+    margin: 100px auto auto auto;
+    color: darkmagenta;
+    font-size: 40px;
+    font-display: bold;
+    font-weight: bolder;
+}
+.i{
+    color: darkmagenta;
+    margin: 40px auto auto auto;
+    font-weight: bold;
+}
+.q{
+    color: darkmagenta;
+    margin: 40px auto auto auto;
+    font-weight: lighter;
+}
+.button{
+    margin: 40px auto 40px auto;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 8px;
+    color:white;
+    background-color: pink;
+    padding: 10px 10px 10px 10px;
+    font-weight: 900;
+}
+button:hover {
+    color: white;
+    cursor: pointer;
+    border: 0px;
+  }
+.footer{
+   background-color: pink;
+}
+a {
+    color:white;
+    font-family: "Montserrat", sans-serif;
+margin: 20px auto auto auto;
+    text-decoration: none;
+}
+    a:hover {
+    color: green;
+    cursor: pointer;
+    border: 0px;
+  }
+.copyright {
+    font-size: 0.75rem;
+    padding: 20px 0;
+    margin: auto auto auto auto ;
+    background-color: pink;
+}
+.last{
+    background-color: pink;
+}
